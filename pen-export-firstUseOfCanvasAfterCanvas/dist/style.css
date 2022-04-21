@@ -1,0 +1,10 @@
+canvas{
+  width: 200px;
+  height: 100px;
+}
+#d1 {
+  background-color: lightblue;
+}
+#d2 {
+  background-color: yellow;
+}
